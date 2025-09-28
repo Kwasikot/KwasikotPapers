@@ -38,7 +38,7 @@ The user can:
 - Deep discourse with diverse cognitive styles  
 - No toxicity (AI-managed interaction)  
 
-### 4. **Virtual Side-Loading (Human Clones)**
+## **Virtual Side-Loading (Human Clones)**
         Beyond abstract cultural personas, the forum allows **loading virtual models of real individuals**, provided they share their personal data (texts, lectures, notes, or recordings). This creates a "digital intellectual presence," enabling debates with approximations of real thinkers, colleagues, or historical figures reconstructed from available material.
     - **Personal mode**: a user can upload their own archive (diaries, tweets, papers) to create a debating twin and test their ideas against themselves.  
     - **Collective mode**: communities can side-load prominent philosophers, scientists, or writers (public domain works), generating AI interlocutors that simulate their style of reasoning.
