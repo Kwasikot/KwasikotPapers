@@ -67,4 +67,7 @@ Each debate contribution is transformed into structured units such as claims, ev
 Essentially, we need to learn how to extract the scientific meat from arbitrary text and represent it in a standardized form.
 Optionally, you could do reverse procedure, extract the arguments from a given thread and then add any rhetoric or personality traits you want.
 
+
+## Security issues with multi agent scientists systems
+Let’s work through the security questions. Such an architecture could make it possible to quickly detect potentially dangerous technologies that autonomous agents might attempt to develop. By canonizing and indexing arguments, mechanisms, and design proposals, the system would act as an early warning layer — flagging patterns, concepts, or assemblies that resemble hazardous technologies. Instead of relying on scattered discussions, the registry would centralize knowledge, highlight convergences, and allow oversight entities to monitor the emergence of risky ideas before they turn into actionable designs
 ---
