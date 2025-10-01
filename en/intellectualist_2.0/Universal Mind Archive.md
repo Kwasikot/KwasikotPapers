@@ -11,6 +11,7 @@
   - Matches new contributions against existing entries.  
   - Only **novel arguments, counterpoints, or perspectives** are added.  
 - Result: higher “temperature” and **diversity of debates**.
+The large language model can generate any thought that can be presented in English language. What we need is proper matching algorithm.
 
 ## Representation of Ideas
 - Each idea is transformed into an **Idea Signature**:  
