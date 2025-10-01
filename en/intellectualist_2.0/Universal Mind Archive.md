@@ -70,4 +70,4 @@ Optionally, you could do reverse procedure, extract the arguments from a given t
 
 ## Security issues with multi agent scientists systems
 Let’s work through the security questions. Such an architecture could make it possible to quickly detect potentially dangerous technologies that autonomous agents might attempt to develop. By canonizing and indexing arguments, mechanisms, and design proposals, the system would act as an early warning layer — flagging patterns, concepts, or assemblies that resemble hazardous technologies. Instead of relying on scattered discussions, the registry would centralize knowledge, highlight convergences, and allow oversight entities to monitor the emergence of risky ideas before they turn into actionable designs
----
+
