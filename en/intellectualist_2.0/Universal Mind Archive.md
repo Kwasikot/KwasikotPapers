@@ -4,6 +4,7 @@
 - In local debates (e.g., Discord servers), the **same arguments repeat endlessly**.  
 - This wastes cognitive resources and prevents exploration of diverse perspectives.  
 - Goal: create a **global registry of ideas** that captures arguments once, in canonical form, so discussions can build on novelty rather than repetition.
+In contrast to Richard Dawkins’ notion of memes as self-replicating cultural units that spread regardless of truth, this system is restricted to scientific discourse: ideas are archived not because they are catchy, but because they are structured, testable, and open to critique.
 
 ## Core Idea
 - A **Global Brain / Idea Registry**:  
