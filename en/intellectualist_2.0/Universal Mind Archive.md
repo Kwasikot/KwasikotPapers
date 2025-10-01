@@ -7,7 +7,7 @@
 In contrast to Richard Dawkins’ notion of memes as self-replicating cultural units that spread regardless of truth, this system is restricted to scientific discourse: ideas are archived not because they are catchy, but because they are structured, testable, and open to critique.
 
 ## Core Idea
-- A **Global Brain / Idea Registry**:  
+- A **Global decentrilised registry :  
   - Stores ideas in **compressed, symbolic, or first-principles form**.  
   - Matches new contributions against existing entries.  
   - Only **novel arguments, counterpoints, or perspectives** are added.  
@@ -20,6 +20,8 @@ but we need matching... not too simple not too complex without unnecessary words
 We represent thought in symbolic form and than we do some hashing function
 The transformer works on the level of individual tokens but we need system that operates in the space of this meta representations.. concepts or blocks of ideas.
 But GPT like system creates this Latent space of representtions. Maybe there is a way to match ideas in this latent space
+
+The memory archive could be distributed across a decentralized blockchain network, ensuring persistence, transparency, and resistance to manipulation. Each new idea would be recorded as a verifiable entry, while consensus mechanisms would guarantee that only genuinely novel or valuable contributions are added. In this way, the global registry becomes not just a repository of thoughts, but a living, tamper-proof ledger of human reasoning
 
 ## Representation of Ideas
 - Each idea is transformed into an **Idea Signature**:  
