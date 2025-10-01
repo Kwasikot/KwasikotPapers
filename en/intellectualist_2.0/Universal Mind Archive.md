@@ -60,6 +60,10 @@ The memory archive could be distributed across a decentralized blockchain networ
 - Symbolic representation must balance **simplicity vs. expressiveness**.  
 - Semantic equivalence is hard: infinite ways to phrase the same thought.  
 - Requires **efficient hashing + embedding fusion** to scale.  
-- Needs careful **incentive design** (to prevent spam / trivial variants).  
+- Needs careful **incentive design** (to prevent spam / trivial variants).
+
+Each debate contribution is transformed into structured units such as claims, evidence, counterclaims, assumptions, and stance. Rhetorical flourishes, emotional tone, and digressions are removed so that only a compressed logical map of the discussion remains. Argument mining and LLM-based filtering help eliminate repetitions, empty rhetoric, unsubstantiated assertions, and off-topic remarks, leaving only minimal unique content. These arguments are then normalized into a canonical, first-principles style, with terms mapped to standardized concepts in an ontology or knowledge graph, while embeddings and clustering merge near-duplicates. The debate itself is stored not as a chat log but as a tree or graph, where the root represents the central question and the branches unfold into claims, counterclaims, and evidence chains, each node being a canonical proposition. As new input arrives, the system checks for novelty using embedding similarity and entailment; duplicates are linked to existing claims, while genuinely new contributions generate new nodes, allowing the thread to evolve into a structured knowledge graph rather than remain a chaotic conversation.
+
+Optionally, you could extract the arguments from a given thread and then add any rhetoric or personality traits you want
 
 ---
