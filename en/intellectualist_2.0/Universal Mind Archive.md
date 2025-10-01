@@ -77,8 +77,6 @@ All new ideas, in one way or another, must undergo rigorous safety checks throug
 
 The Universal Mind Archive can be seen as a project that naturally resonates with several major philosophies of science. From Popper’s perspective, it should not just collect ideas but also ensure that every contribution includes testable conditions that could, in principle, be refuted. In this sense, the archive would act as a filter and a testing ground, not only as storage.
 
-Kuhn’s view suggests that the archive should be able to reflect the dynamics of paradigms. Science, in his model, does not grow linearly but through shifts from normal science to crises and revolutions. An archive that tracks both the frameworks of dominant paradigms and the anomalies that challenge them would become a living map of conceptual change, rather than a flat database of statements.
-
 Lakatos adds another layer: research programs with a “hard core” and a “protective belt” of auxiliary hypotheses. The Universal Mind Archive could encode these distinctions and even evaluate whether a program is progressive, generating novel predictions, or degenerating, merely patching existing theories. This would give the archive a role in assessing the vitality and health of research trajectories.
 
 Feyerabend reminds us that science is not reducible to a strict methodology. He emphasized that breakthroughs often came from violating the rules, and in this light, the archive should not become too rigid. It must preserve diversity, allow for radical departures, and embrace creative chaos alongside systematic reasoning. Otherwise, it risks turning into another paradigm that suppresses innovation.
