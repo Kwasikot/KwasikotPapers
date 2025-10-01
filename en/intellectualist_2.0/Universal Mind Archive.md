@@ -18,6 +18,7 @@ the problem is that the same thought you can represent infinite number of possib
 but we need matching... not too simple not too complex without unnecessary words...
 We represent thought in symbolic form and than we do some hashing function
 The transformer works on the level of individual tokens but we need system that operates in the space of this meta representations.. concepts or blocks of ideas.
+But GPT like system creates this Latent space of representtions. Maybe there is a way to match ideas in this latent space
 
 ## Representation of Ideas
 - Each idea is transformed into an **Idea Signature**:  
