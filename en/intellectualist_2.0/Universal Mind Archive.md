@@ -24,7 +24,7 @@ But GPT like system creates this Latent space of representtions. Maybe there is 
 Basicaly we need to add concept of level of details. Lets take sliding window of tokens and for every position of window we have this threads of thoughts in canonical form. Basicaly it can be used as thought monitor. So you take the raw token stream from the LLM and on top of that bult a tree that parallel branches of all sorts of canonical representation of the same idea. You can do it in parallel. But the trick is to get rid of unnecessary details like tokens that not adding any meaning to the idea. It can be hierarhical. On the top level you can have abstract ideas. On level below less abstract ideas. So on some level of that tree you can detect tha user have some malicious prompt it actually trying to jailbreak the system.
 We need to be able to create the multiverse of possible interpretations of all chain of thought in canonical (symbolic, first-principles framework form). But in the same time this algorithm needs to be as efficient as possible for obvious reasons.
 
-The memory archive could be distributed across a decentralized blockchain network, ensuring persistence, transparency, and resistance to manipulation. Each new idea would be recorded as a verifiable entry, while consensus mechanisms would guarantee that only genuinely novel or valuable contributions are added. In this way, the global registry becomes not just a repository of thoughts, but a living, tamper-proof ledger of human reasoning
+
 
 ## Representation of Ideas
 - Each idea is transformed into an **Idea Signature**:  
@@ -70,6 +70,8 @@ Each debate contribution is transformed into structured units such as claims, ev
 Essentially, we need to learn how to extract the scientific meat from arbitrary text and represent it in a standardized form.
 Optionally, you could do reverse procedure, extract the arguments from a given thread and then add any rhetoric or personality traits you want.
 
+## Blockchain
+The memory archive could be distributed across a decentralized blockchain network, ensuring persistence, transparency, and resistance to manipulation. Each new idea would be recorded as a verifiable entry, while consensus mechanisms would guarantee that only genuinely novel or valuable contributions are added. In this way, the global registry becomes not just a repository of thoughts, but a living, tamper-proof ledger of human reasoning
 
 ## Security issues with multi agent scientists systems
 Let’s work through the security questions. Such an architecture could make it possible to quickly detect potentially dangerous technologies that autonomous agents might attempt to develop. By canonizing and indexing arguments, mechanisms, and design proposals, the system would act as an early warning layer — flagging patterns, concepts, or assemblies that resemble hazardous technologies. Instead of relying on scattered discussions, the registry would centralize knowledge, highlight convergences, and allow oversight entities to monitor the emergence of risky ideas before they turn into actionable designs
