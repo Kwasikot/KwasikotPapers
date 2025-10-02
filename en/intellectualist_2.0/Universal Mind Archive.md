@@ -27,7 +27,8 @@ We need to be able to create the multiverse of possible interpretations of all c
 What if individual agents does not have malicious intent they do only the part of some dangerous thing? 
 And the master plan of a dangerous thing not in the system... 
 Then the system will have to guess about the different versions of a master plan from the chain of thoughts of individual agents working together. 
-
+And this guess have to be based of most probable goals of a certain agent or actor. So it needs to know something about the actor who use the system...
+Its getting too complicated...
 
 ## Representation of Ideas
 - Each idea is transformed into an **Idea Signature**:  
